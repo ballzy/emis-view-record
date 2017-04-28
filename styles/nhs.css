@@ -1,0 +1,16 @@
+a, a:link, a:hover, a:focus, a:visited, p a:link, #headercontainer a { color: #005eb8;}
+
+#footercontainer, a.button:hover, .button:hover { background: #005eb8;}
+
+#headercontainer {background: white; border-bottom: 3px solid  #005eb8;}
+
+.mr-nav .sel, .mr-nav a:hover, .repeats td, tr.test-result { background: #ecf7fb;}
+
+.mr-title, .boxheader3 { border-bottom: 3px solid #005eb8;}
+
+.picon { background-image: url('../images/icons-access.png');}
+
+#headercontainer .sitename{ background: url('../images/nhs-logo.png') no-repeat 0 12px;}
+
+
+
